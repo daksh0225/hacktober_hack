@@ -2,4 +2,4 @@
 
 'added something'
 
-'Life without change is the same as death'
+
